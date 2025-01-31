@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/farhanhana/static/css/main.549a5300.css",
-    "main.js": "/farhanhana/static/js/main.2925a3f0.js",
-    "static/js/488.af104311.chunk.js": "/farhanhana/static/js/488.af104311.chunk.js",
+    "main.css": "/farhanhana/static/css/main.8c76b471.css",
+    "main.js": "/farhanhana/static/js/main.d0ebe72d.js",
+    "static/js/488.68521f19.chunk.js": "/farhanhana/static/js/488.68521f19.chunk.js",
     "index.html": "/farhanhana/index.html",
-    "main.549a5300.css.map": "/farhanhana/static/css/main.549a5300.css.map",
-    "main.2925a3f0.js.map": "/farhanhana/static/js/main.2925a3f0.js.map",
-    "488.af104311.chunk.js.map": "/farhanhana/static/js/488.af104311.chunk.js.map"
+    "main.8c76b471.css.map": "/farhanhana/static/css/main.8c76b471.css.map",
+    "main.d0ebe72d.js.map": "/farhanhana/static/js/main.d0ebe72d.js.map",
+    "488.68521f19.chunk.js.map": "/farhanhana/static/js/488.68521f19.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.549a5300.css",
-    "static/js/main.2925a3f0.js"
+    "static/css/main.8c76b471.css",
+    "static/js/main.d0ebe72d.js"
   ]
 }
